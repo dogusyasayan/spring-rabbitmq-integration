@@ -75,7 +75,7 @@ docker run -d --name my-rabbit -p 5672:5672 -p 15672:15672 rabbitmq:latest
 
 ### Türkçe Açıklama
 
-# Spring RabbitMQ Uygulaması Uygulaması
+# Spring RabbitMQ Uygulaması
 
 ## Temel Kavramlar
 - **Yayıncı (Producer):** Mesajları RabbitMQ kuyruğuna gönderen taraf. Bu uygulamada RabbitMQProducer görevi üstlenir.
